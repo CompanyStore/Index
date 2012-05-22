@@ -13,3 +13,5 @@ Index for some sample apps. Fork and hack!
 * [PhotosViewer] (https://github.com/CompanyStore/PhotosViewer)
 * [linkalatte] (https://github.com/CompanyStore/Linkalatte)
 * [photosv0.9] (https://github.com/CompanyStore/photosv0.9)
+* [Travel Recommendations] (https://github.com/CompanyStore/TravelRecommendations)
+* [FoursquareStats] (https://github.com/CompanyStore/foursquarestats)
