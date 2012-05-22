@@ -12,4 +12,4 @@ Index for some sample apps. Fork and hack!
 * [MergedContacts] (https://github.com/CompanyStore/MergedContacts)
 * [PhotosViewer] (https://github.com/CompanyStore/PhotosViewer)
 * [linkalatte] (https://github.com/CompanyStore/Linkalatte)
-* [https://github.com/CompanyStore/photosv0.9] (https://github.com/CompanyStore/photosv0.9)
+* [photosv0.9] (https://github.com/CompanyStore/photosv0.9)
